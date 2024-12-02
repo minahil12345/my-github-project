@@ -1,5 +1,4 @@
-```markdown
-# Contributing to This Project
+## Contributing to This Project
 
 We appreciate your interest in contributing to this project! To make the contribution process as smooth as possible, please follow the guidelines below.
 
